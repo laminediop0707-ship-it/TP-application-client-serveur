@@ -1,0 +1,22 @@
+# Fichiers système / OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs / IDE
+.vscode/
+.idea/
+*.swp
+
+# Dépendances & builds
+node_modules/
+dist/
+build/
+vendor/
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
